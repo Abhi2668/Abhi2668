@@ -10,7 +10,7 @@ Hi there! I'm Abhinav, also known as Abhi. I'm currently pursuing my undergradua
 - Computer Graphics
 - Computer Vision
 
-This GitHub repository showcases my projects, a platform to track my progress, and a space to collaborate with others in the tech community.
+This GitHub repository showcases my projects, a platform to track my progress and a space to collaborate with others in the tech community.
 
 ## Education
 - **Undergraduate:** Bachelor of Science in Computer Science, Georgia Institute of Technology
@@ -19,9 +19,9 @@ This GitHub repository showcases my projects, a platform to track my progress, a
 Feel free to explore my repositories for more!
 
 ## Get in Touch
-- **LinkedIn:** [[Your LinkedIn Profile](https://www.linkedin.com/in/avinod34/)](link)
+- **LinkedIn:** [[Connect with me!](https://www.linkedin.com/in/avinod34/)](link)
 - **Email:** avinod34@gatech.edu
-- **Website/Blog:** [[Your Website/Blog](https://abhi2668.github.io/Website-Portfolio/index.html)](link)
+- **Website/Blog:** [[Who am I?](https://abhi2668.github.io/Website-Portfolio/index.html)](link)
 - **Instagram:** [[abhi.v19](https://www.instagram.com/abhi.v19/)](link)
 
 Let's connect and collaborate!
