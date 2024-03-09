@@ -19,10 +19,10 @@ This GitHub repository showcases my projects, a platform to track my progress an
 Feel free to explore my repositories for more!
 
 ## Get in Touch
-- **LinkedIn:** [[Connect with me!](https://www.linkedin.com/in/avinod34/)](link)
+- **LinkedIn:** [[Connect with me!](https://www.linkedin.com/in/avinod34/)]
 - **Email:** avinod34@gatech.edu
-- **Website/Blog:** [[Who am I?](https://abhi2668.github.io/Website-Portfolio/index.html)](link)
-- **Instagram:** [[abhi.v19](https://www.instagram.com/abhi.v19/)](link)
+- **Website/Blog:** [[Who am I?](https://abhi2668.github.io/Website-Portfolio/index.html)]
+- **Instagram:** [[abhi.v19](https://www.instagram.com/abhi.v19/)]
 
 Let's connect and collaborate!
 
