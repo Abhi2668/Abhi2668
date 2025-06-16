@@ -14,9 +14,8 @@ Feel free to explore my repositories for more!
 ## Get in Touch
 - **LinkedIn:** [[Connect with me!](https://www.linkedin.com/in/avinod34/)]
 - **Email:** avinod34@gatech.edu, vinodabhinav54@gmail.com
-- **Website/Blog:** [[Who am I?](https://abhi2668.github.io/Website-Portfolio/index.html)]
+- **Website/Blog:** [[Who am I?](https://abhi-vinod.com/)]
 - **Instagram:** [[tiesfound](https://www.instagram.com/tiesfound/)]
-- 
 
 Reach out if anything catches your eye or if you just want to talk :>
 
