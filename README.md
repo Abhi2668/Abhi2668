@@ -1,9 +1,9 @@
 # Welcome!
 
 ## About Me
-Hi there! I'm Abhinav, also known as Abhi. I'm currently pursuing my Master's degree in Computer Science at Georgia Tech. I've done a ton of things with what I've learned, but right now, I'm focusing on Computer Systems and looking to learn more in that domain.
+Hi! I'm Abhinav. I go by Abhi usually. I've completed my Master's degree in Computer Science at Georgia Tech. I've done a ton of things with what I've learned, but right now, I'm focusing on Computer Systems and looking to learn more in that domain.
 
-This GitHub repository attempts to showcase my ability, the things that interest me, and what I've learnt, and also acts as a base of operations as I keep developing.
+This GitHub repository is helps to showcase my ability (hopefully), the things that interest me, and what I've learnt, and also acts as a base of operations as I keep developing.
 
 ## Education
 - **Undergraduate:** Bachelor of Science in Computer Science, Georgia Institute of Technology - Computer Media & Artificial Intelligence
@@ -15,7 +15,6 @@ Feel free to explore my repositories for more!
 - **LinkedIn:** [[Connect with me!](https://www.linkedin.com/in/avinod34/)]
 - **Email:** avinod34@gatech.edu, vinodabhinav54@gmail.com
 - **Website/Blog:** [[Who am I?](https://abhi-vinod.com/)]
-- **Instagram:** [[tiesfound](https://www.instagram.com/tiesfound/)]
 
 Reach out if anything catches your eye or if you just want to talk :>
 
